@@ -11,7 +11,7 @@
 </p>
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielk-camargo&layout=compact&theme=dracula&width=49%&height=195px)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula&width=49%&height=195px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielk-camargo&show_icons=true&theme=dracula&width=49%&height=195px)
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/gabriel-kcamargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
