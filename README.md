@@ -9,18 +9,20 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=gabrielk-camargo&theme=onedark"
 </p>
+ <hr>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielk-camargo&layout=compact&theme=dracula&width=49%&height=195px)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielk-camargo&show_icons=true&theme=dracula&width=49%&height=195px)
 
-<div align="center"> 
-<a href="https://www.linkedin.com/in/gabriel-kcamargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielk-camargo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielk-camargo&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+<hr>
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
