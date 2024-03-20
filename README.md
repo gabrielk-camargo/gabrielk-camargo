@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=FF006E&center=true&vCenter=true&width=1000&lines=My+name+is+Gabriel+Kist+Camargo;+and+I'm+21+years+old;Industrial+automation+student+;I'm+from+Brazil.;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=100&color=FF006E&center=true&vCenter=true&width=1000&lines=Welcome!+My+name+is+Gabriel+Kist+Camargo;Industrial+automation+student)](https://git.io/typing-svg)
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
